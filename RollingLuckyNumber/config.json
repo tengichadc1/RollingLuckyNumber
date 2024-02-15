@@ -1,0 +1,20 @@
+[
+  {
+    "IDGiai": 1,
+    "TenGiai": "Giải Nhất",
+    "PhanThuong": "LapTop",
+    "SoLuong": 1
+  },
+  {
+    "IDGiai": 2,
+    "TenGiai": "Giải Hai",
+    "PhanThuong": "Điện Thoại",
+    "SoLuong": 2
+  },
+  {
+    "IDGiai": 3,
+    "TenGiai": "Giải Ba",
+    "PhanThuong": "TV",
+    "SoLuong": 3
+  }
+]

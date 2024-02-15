@@ -1,0 +1,4 @@
+- Source file cần phải theo format mẫu
+- File KetQua chi duoc lưu khi đủ số lượng trúng giải của tất cả các giải
+- Khi Check vào checkbox(Loại người chơi khỏi ds trúng thưởng) check -> click vào btn Quay
+=> thì người chơi đó sẽ không còn trong ds quay ở những lần quay sau đó.

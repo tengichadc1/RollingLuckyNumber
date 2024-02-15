@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RollingLuckyNumber": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}

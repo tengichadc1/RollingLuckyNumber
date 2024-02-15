@@ -1,0 +1,93 @@
+{
+  "AmountPlay": 1,
+  "TimeRoll": 2000,
+  "lstDuongDan": [
+    {
+      "ID": 1,
+      "Path": "D:\\Tool\\sltRollingLuckyNumber\\RollingLuckyNumber\\bin\\Debug\\RandomList.xlsx"
+    },
+    {
+      "ID": 2,
+      "Path": "D:\\Tool\\sltRollingLuckyNumber\\RollingLuckyNumber\\bin\\Debug"
+    }
+  ],
+  "lstColorEle": [
+    {
+      "Color": "94, 148, 255",
+      "ColorText": "255, 255, 255",
+      "ID": 1
+    },
+    {
+      "Color": "94, 148, 255",
+      "ColorText": "255, 255, 255",
+      "ID": 2
+    },
+    {
+      "Color": "94, 148, 255",
+      "ColorText": "255, 255, 255",
+      "ID": 3
+    },
+    {
+      "Color": "94, 148, 255",
+      "ColorText": "255, 255, 255",
+      "ID": 4
+    },
+    {
+      "Color": "94, 148, 255",
+      "ColorText": "255, 255, 255",
+      "ID": 5
+    },
+    {
+      "Color": "94, 148, 255",
+      "ColorText": "255, 255, 255",
+      "ID": 6
+    },
+    {
+      "Color": "",
+      "ColorText": "255, 255, 255",
+      "ID": 7
+    },
+    {
+      "Color": "",
+      "ColorText": "255, 255, 255",
+      "ID": 8
+    },
+    {
+      "Color": "",
+      "ColorText": "255, 255, 255",
+      "ID": 9
+    }
+  ],
+  "lstImage": [
+    {
+      "ID": 1,
+      "State": 0
+    },
+    {
+      "ID": 2,
+      "State": 0
+    }
+  ],
+  "lstSound": [
+    {
+      "ID": 1,
+      "State": 1
+    },
+    {
+      "ID": 2,
+      "State": 1
+    },
+    {
+      "ID": 3,
+      "State": 1
+    },
+    {
+      "ID": 4,
+      "State": 1
+    },
+    {
+      "ID": 5,
+      "State": 1
+    }
+  ]
+}
