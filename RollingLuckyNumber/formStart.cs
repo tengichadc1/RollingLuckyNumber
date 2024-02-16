@@ -186,7 +186,7 @@ namespace RollingLuckyNumber
         {
             if (tAConfig.lstSound[0].State == 0)
             {
-                using (sp = new SoundPlayer(Path.Combine(formConfig.soundDirect + "\\fs.wav")))
+                using (sp = new SoundPlayer(Path.Combine(formConfig.soundDirect + "fs.wav")))
                 {
                     sp.PlayLooping();
                     varPlay = true;
