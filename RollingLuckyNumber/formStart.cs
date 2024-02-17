@@ -78,8 +78,8 @@ namespace RollingLuckyNumber
                 btnKetQua.FillColor = ConvertToColor(tAConfig.lstColorEle.FirstOrDefault(c => c.ID == 3).Color.ToString());
                 btnKetQua.ForeColor = ConvertToColor(tAConfig.lstColorEle.FirstOrDefault(c => c.ID == 3).ColorText.ToString());
 
-                excelFilePath = Path.Combine(tAConfig.lstDuongDan.First(c => c.ID == 1).Path);
-                saveAsPath = Path.Combine(tAConfig.lstDuongDan.First(c => c.ID == 2).Path);
+                excelFilePath = Path.Combine(tAConfig.lstDuongDan.First(c => c.ID == 2).Path);
+                saveAsPath = Path.Combine(tAConfig.lstDuongDan.First(c => c.ID == 1).Path);
 
             }
             catch (Exception ex)
